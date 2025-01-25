@@ -4,7 +4,7 @@
 
 ## <a name="introduction">Introduction</a>
 
-Built with tech stack Next.js, TypeScript and more, this project aims to relpicate video conferencing apps. It helps users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, etc.
+Built with tech stack like Next.js, TypeScript and more, this project aims to relpicate video conferencing apps. It helps users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, etc.
 
 ## <a name="features">Features</a>
 
