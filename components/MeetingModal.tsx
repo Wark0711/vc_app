@@ -23,7 +23,9 @@ const MeetingModal = ({ isOpen, onClose, title, className, children, handleClick
                 {
                     image
                         ? <div className='flex flex-col gap-6'>
-                            <Image src={image} alt='image' height={72} width={72} />
+                            <div className='flex justify-center'>
+                                <Image src={image} alt='image' height={72} width={72} />
+                            </div>
                         </div>
                         : null
                 }
